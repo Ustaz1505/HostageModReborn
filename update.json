@@ -1,15 +1,10 @@
 {
   "homepage": "https://github.com/Ustaz1505/HostageModReborn",
   "1.19.2": {
-    "0.0.0": "First version. Just mod with description", 
-    // List all versions of your mod for the given Minecraft version, along with their changelogs
-    // ...
+    "0.0.0": "First version. Just mod with description"
   },
   "promos": {
     "1.19.2-latest": "0.0.0",
-    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
-    "1.19.2-recommended": "0.0.0",
-    // Declare the latest "stable" version of your mod for the given Minecraft version
-    // ...
+    "1.19.2-recommended": "0.0.0"
   }
 }
